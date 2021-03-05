@@ -1,4 +1,4 @@
 # hello-world
 
 Hi, 
-test 6
+test 6. prepravljeno.
